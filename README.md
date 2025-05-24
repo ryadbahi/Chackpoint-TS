@@ -16,3 +16,11 @@ This project defines a `Vehicle` interface and implements it with a `Car` class,
 - Node.js installed
 - TypeScript installed globally (run `npm install -g typescript`)
 
+### How to Compile and Run
+
+```bash
+# Compile TypeScript to JavaScript
+tsc
+
+# Run the compiled JavaScript file
+node js/main.js
