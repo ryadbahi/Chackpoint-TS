@@ -18,13 +18,9 @@ This project defines a `Vehicle` interface and implements it with a `Car` class,
 
 ### How to Compile and Run
 
-
-# Compile TypeScript to JavaScript
-
 ```bash
+# Compile TypeScript to JavaScript
 tsc
 
 # Run the compiled JavaScript file
-
-```bash
 node js/main.js
